@@ -11,10 +11,9 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TjWhiteboy&color=6366F1&style=flat-square&label=Profile+Views)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6366F1?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
-[![Email](https://img.shields.io/badge/Email-Contact-6366F1?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-6366F1?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/YOUR-LEETCODE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/thikash-jayaprakash)
+[![Email](https://img.shields.io/badge/Email-Contact-6366F1?style=flat-square&logo=gmail&logoColor=white)](mailto:thikashjayaprakash@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-6366F1?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/tj_whiteboy/)
 
 </div>
 
@@ -131,14 +130,7 @@ Semantic AI memory platform powered by vector databases and embeddings.
 `Vector DB` `Embeddings` `Python`
 
 </td>
-<td width="50%">
-
-### 🧭 LifePilot *(in progress)*
-Open-source multi-agent AI goal management platform — six specialized agents coordinated by an orchestrator.
-
-`Next.js` `FastAPI` `MongoDB Atlas` `Claude API`
-
-</td>
+<td width="50%"></td>
 </tr>
 </table>
 
@@ -164,7 +156,7 @@ Open-source multi-agent AI goal management platform — six specialized agents c
 ## 🧭 Current Focus
 
 ```text
-🔨 Building     → Phoenix, LifePilot (multi-agent AI platform)
+🔨 Building     → Phoenix
 📚 Learning     → Multi-Agent AI · Agentic AI · AWS AI · Generative AI · RAG
 🎯 Targeting    → AI/ML Internships · Research Collaborations · Hackathons
 ```
@@ -202,10 +194,9 @@ Open-source multi-agent AI goal management platform — six specialized agents c
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR-LEETCODE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thikash-jayaprakash)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thikashjayaprakash@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/tj_whiteboy/)
 
 </div>
 
