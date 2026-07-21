@@ -163,23 +163,6 @@ Semantic AI memory platform powered by vector databases and embeddings.
 
 <br/>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TjWhiteboy&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TjWhiteboy&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=6366F1" width="48%" />
-
-<img src="https://streak-stats.demolab.com?user=TjWhiteboy&theme=dark&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1" width="60%" />
-
-<img src="https://raw.githubusercontent.com/TjWhiteboy/TjWhiteboy/output/github-contribution-grid-snake.svg" width="80%" />
-
-</div>
-
-> ℹ️ The contribution snake requires a one-time GitHub Actions workflow ([Platane/snk](https://github.com/Platane/snk)) added to a repo named after your username.
-
-<br/>
-
 ## 📜 Certifications
 
 - AWS Cloud Practitioner / AI Track
