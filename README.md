@@ -114,7 +114,7 @@ AI news intelligence platform with summarization, personalization, and conversat
 </td>
 <td width="50%">
 
-### 📋 [ResolveIT](https://github.com/TjWhiteboy/ResolveIT)
+### 📋 [ResolveIT](https://github.com/TjWhiteboy/ResolveIT-Smart-Grievance-and-Feedback-Management-System)
 Complaint and grievance management system built for real-world institutional use.
 
 `Spring Boot` `Java` `MySQL`
