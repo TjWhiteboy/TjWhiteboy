@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=220&section=header&text=Thikash%20Jayaprakash&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Thikash%20Jayaprakash&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Engineer&descAlignY=58&descSize=20&animation=fadeIn&reversal=false" width="100%"/>
 
 <a href="https://github.com/TjWhiteboy">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Agentic+AI+Systems+%F0%9F%A4%96;Computer+Vision+%26+Generative+AI+%F0%9F%91%81%EF%B8%8F;Full+Stack+AI+Applications+%E2%9A%A1;Open+Source+%7C+Research+%7C+Hackathons+%F0%9F%9A%80" alt="Typing SVG" />
@@ -27,7 +27,7 @@
 <a href="https://leetcode.com/u/tj_whiteboy/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:8B5CF6&height=3&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000" width="100%"/>
 
 </div>
 
@@ -50,7 +50,7 @@
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:6366F1&height=3&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,11,6&height=3&width=1000" width="100%"/>
 
 ### 💻 Tech Stack
 
@@ -94,7 +94,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:6366F1&height=3&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,11,6&height=3&width=1000" width="100%"/>
 
 ### 🚀 Featured Projects
 
@@ -148,7 +148,7 @@
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:6366F1&height=3&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,11,6&height=3&width=1000" width="100%"/>
 
 ### 🏆 Achievements & Trophies
 
@@ -163,13 +163,13 @@
 - 🏅 **Campus Ambassador**
 - 🌍 **Open Source Contributor**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:6366F1&height=3&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,11,6&height=3&width=1000" width="100%"/>
 
 ### 🧪 Research
 
 - 📄 IEEE Paper — Artificial Intelligence & Computer Vision applied to Medical Imaging, with a focus on Explainable AI
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:6366F1&height=3&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,11,6&height=3&width=1000" width="100%"/>
 
 ### 🧭 Current Focus
 
@@ -179,7 +179,7 @@
 🎯 Targeting    → AI/ML Internships · Research Collaborations · Hackathons
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:6366F1&height=3&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,11,6&height=3&width=1000" width="100%"/>
 
 ### 📊 GitHub Analytics
 
@@ -196,7 +196,7 @@
 
 > ℹ️ The contribution snake requires a one-time GitHub Actions workflow ([Platane/snk](https://github.com/Platane/snk)) added to a repo named after your username.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:6366F1&height=3&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,11,6&height=3&width=1000" width="100%"/>
 
 ### 📜 Certifications
 
@@ -206,7 +206,7 @@
 - 🟣 Hackathon Participation Certificates
 - ⚪ IEEE Research Publication
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:6366F1&height=3&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,11,6&height=3&width=1000" width="100%"/>
 
 <div align="center">
 
@@ -222,6 +222,6 @@
 
 ⭐ **Thanks for visiting my profile — feel free to star a repo you like!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 </div>
