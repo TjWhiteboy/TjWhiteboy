@@ -154,10 +154,6 @@
 
 ### 🏆 Achievements & Trophies
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=TjWhiteboy&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%"/>
-</div>
-
 - 🏅 **IEEE Published Author** — AI & Computer Vision in Medical Imaging
 - 🏅 **AWS Certified**
 - 🏅 **Infosys Springboard Certified**
@@ -180,23 +176,6 @@
 📚 Learning     → Multi-Agent AI · Agentic AI · AWS AI · Generative AI · RAG
 🎯 Targeting    → AI/ML Internships · Research Collaborations · Hackathons
 ```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,11,6&height=3&width=1000" width="100%"/>
-
-### 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TjWhiteboy&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TjWhiteboy&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=6366F1" width="48%" />
-
-<img src="https://streak-stats.demolab.com?user=TjWhiteboy&theme=dark&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1" width="60%" />
-
-<img src="https://raw.githubusercontent.com/TjWhiteboy/TjWhiteboy/output/github-contribution-grid-snake.svg" width="80%" />
-
-</div>
-
-> ℹ️ The contribution snake requires a one-time GitHub Actions workflow ([Platane/snk](https://github.com/Platane/snk)) added to a repo named after your username.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,11,6&height=3&width=1000" width="100%"/>
 
