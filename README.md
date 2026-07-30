@@ -1,27 +1,41 @@
 <div align="center">
 
-# Hi 👋, I'm Thikash Jayaprakash
-
-### AI Engineer &nbsp;•&nbsp; Machine Learning Engineer &nbsp;•&nbsp; Full Stack Developer &nbsp;•&nbsp; Computer Vision Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=220&section=header&text=Thikash%20Jayaprakash&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/TjWhiteboy">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+Agentic+AI+Systems;Computer+Vision+%26+Generative+AI;Full+Stack+AI+Applications;Open+Source+%7C+Research+%7C+Hackathons" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Agentic+AI+Systems+%F0%9F%A4%96;Computer+Vision+%26+Generative+AI+%F0%9F%91%81%EF%B8%8F;Full+Stack+AI+Applications+%E2%9A%A1;Open+Source+%7C+Research+%7C+Hackathons+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=TjWhiteboy&color=6366F1&style=flat-square&label=Profile+Views)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/thikash-jayaprakash)
-[![Email](https://img.shields.io/badge/Email-Contact-6366F1?style=flat-square&logo=gmail&logoColor=white)](mailto:thikashjayaprakash@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-6366F1?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/tj_whiteboy/)
+<a href="https://thikashj-portfolio.vercel.app/"><img src="https://img.shields.io/badge/🌐_VIEW_PORTFOLIO-00C853?style=for-the-badge&labelColor=1a1a2e&logo=vercel&logoColor=00C853" height="42"/></a>
+&nbsp;&nbsp;
+<a href="https://drive.google.com/file/d/17qdHGMGJL7RtmM6WuOpAr49rHjDuBA0O/view?usp=sharing"><img src="https://img.shields.io/badge/📄_DOWNLOAD_RESUME-FFB300?style=for-the-badge&labelColor=1a1a2e&logo=googledrive&logoColor=FFB300" height="42"/></a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/📍_Tamil_Nadu,_India-6366F1?style=for-the-badge&labelColor=1a1a2e" alt="location"/>
+<img src="https://img.shields.io/badge/🎓_B.E._CS_(AI_%26_ML)-8B5CF6?style=for-the-badge&labelColor=1a1a2e" alt="education"/>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=TjWhiteboy&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
+
+<p>
+<a href="https://linkedin.com/in/thikash-jayaprakash"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:thikashjayaprakash@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://leetcode.com/u/tj_whiteboy/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:8B5CF6&height=3&width=1000" width="100%"/>
 
 </div>
 
 <br/>
 
-## 👋 About Me
+### 👋 About Me
 
-<table>
+<table width="100%">
 <tr>
 <td>
 
@@ -36,9 +50,9 @@
 </tr>
 </table>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:6366F1&height=3&width=1000" width="100%"/>
 
-## 💻 Tech Stack
+### 💻 Tech Stack
 
 **Languages**
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -80,63 +94,67 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:6366F1&height=3&width=1000" width="100%"/>
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 [Phoenix](https://github.com/TjWhiteboy/Phoenix)
-AI desktop assistant with voice interaction, automation, and agentic task execution.
-
-`Electron` `React` `TypeScript` `Ollama` `OpenAI`
+> #### 🤖 [Phoenix](https://github.com/TjWhiteboy/Phoenix)
+> AI desktop assistant with voice interaction, automation, and agentic task execution.
+>
+> ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌱 [AgriSense](https://github.com/TjWhiteboy/AgriSense)
-AI-powered smart agriculture platform for crop recommendation, disease detection, and weather intelligence.
-
-`Computer Vision` `Machine Learning` `Weather API`
+> #### 🌱 [AgriSense](https://github.com/TjWhiteboy/AgriSense)
+> AI-powered smart agriculture platform for crop recommendation, disease detection, and weather intelligence.
+>
+> ![CV](https://img.shields.io/badge/-Computer%20Vision-5C3EE8?style=flat-square) ![ML](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square) ![Weather](https://img.shields.io/badge/-Weather%20API-0EA5E9?style=flat-square)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📰 [InfoMind](https://github.com/TjWhiteboy/InfoMind)
-AI news intelligence platform with summarization, personalization, and conversational news.
-
-`LLM` `RAG` `Summarization`
+> #### 📰 [InfoMind](https://github.com/TjWhiteboy/InfoMind)
+> AI news intelligence platform with summarization, personalization, and conversational news.
+>
+> ![LLM](https://img.shields.io/badge/-LLM-6366F1?style=flat-square) ![RAG](https://img.shields.io/badge/-RAG-8B5CF6?style=flat-square) ![Summarization](https://img.shields.io/badge/-Summarization-A78BFA?style=flat-square)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📋 [ResolveIT](https://github.com/TjWhiteboy/ResolveIT-Smart-Grievance-and-Feedback-Management-System)
-Complaint and grievance management system built for real-world institutional use.
-
-`Spring Boot` `Java` `MySQL`
+> #### 📋 [ResolveIT](https://github.com/TjWhiteboy/ResolveIT)
+> Complaint and grievance management system built for real-world institutional use.
+>
+> ![Spring](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧠 [RecallX](https://github.com/TjWhiteboy/RecallX)
-Semantic AI memory platform powered by vector databases and embeddings.
-
-`Vector DB` `Embeddings` `Python`
+> #### 🧠 [RecallX](https://github.com/TjWhiteboy/RecallX)
+> Semantic AI memory platform powered by vector databases and embeddings.
+>
+> ![VectorDB](https://img.shields.io/badge/-Vector%20DB-6366F1?style=flat-square) ![Embeddings](https://img.shields.io/badge/-Embeddings-8B5CF6?style=flat-square) ![Python](https://img.shields.io/badge/-Python-14354C?style=flat-square&logo=python&logoColor=white)
 
 </td>
-<td width="50%"></td>
+<td width="50%" valign="top"></td>
 </tr>
 </table>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:6366F1&height=3&width=1000" width="100%"/>
 
-## 🏆 Achievements
+### 🏆 Achievements & Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=TjWhiteboy&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%"/>
+</div>
 
 - 🏅 **IEEE Published Author** — AI & Computer Vision in Medical Imaging
 - 🏅 **AWS Certified**
@@ -145,15 +163,15 @@ Semantic AI memory platform powered by vector databases and embeddings.
 - 🏅 **Campus Ambassador**
 - 🌍 **Open Source Contributor**
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:6366F1&height=3&width=1000" width="100%"/>
 
-## 🧪 Research
+### 🧪 Research
 
 - 📄 IEEE Paper — Artificial Intelligence & Computer Vision applied to Medical Imaging, with a focus on Explainable AI
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:6366F1&height=3&width=1000" width="100%"/>
 
-## 🧭 Current Focus
+### 🧭 Current Focus
 
 ```text
 🔨 Building     → Phoenix
@@ -161,34 +179,49 @@ Semantic AI memory platform powered by vector databases and embeddings.
 🎯 Targeting    → AI/ML Internships · Research Collaborations · Hackathons
 ```
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:6366F1&height=3&width=1000" width="100%"/>
 
-## 📜 Certifications
-
-- AWS Cloud Practitioner / AI Track
-- Infosys Springboard — AI & ML
-- Machine Learning Specialization
-- Hackathon Participation Certificates
-- IEEE Research Publication
-
-<br/>
-
-## 📫 Connect With Me
+### 📊 GitHub Analytics
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thikash-jayaprakash)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thikashjayaprakash@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/tj_whiteboy/)
+<img src="https://github-readme-stats.vercel.app/api?username=TjWhiteboy&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TjWhiteboy&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=6366F1" width="48%" />
+
+<img src="https://streak-stats.demolab.com?user=TjWhiteboy&theme=dark&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1" width="60%" />
+
+<img src="https://raw.githubusercontent.com/TjWhiteboy/TjWhiteboy/output/github-contribution-grid-snake.svg" width="80%" />
 
 </div>
 
-<br/>
+> ℹ️ The contribution snake requires a one-time GitHub Actions workflow ([Platane/snk](https://github.com/Platane/snk)) added to a repo named after your username.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:6366F1&height=3&width=1000" width="100%"/>
+
+### 📜 Certifications
+
+- 🟠 AWS Cloud Practitioner / AI Track
+- 🔵 Infosys Springboard — AI & ML
+- 🟢 Machine Learning Specialization
+- 🟣 Hackathon Participation Certificates
+- ⚪ IEEE Research Publication
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:6366F1&height=3&width=1000" width="100%"/>
 
 <div align="center">
 
+### 📫 Let's Connect
+
+<a href="https://linkedin.com/in/thikash-jayaprakash"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:thikashjayaprakash@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://leetcode.com/u/tj_whiteboy/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+
+<br/><br/>
+
 *"Building AI that solves real-world problems."*
 
-⭐ Thanks for visiting my profile!
+⭐ **Thanks for visiting my profile — feel free to star a repo you like!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=120&section=footer" width="100%"/>
 
 </div>
